@@ -56,6 +56,9 @@
 		align: center;
 		color: #7cb4d4;
 		}
+		a.hover {
+			color:	#FFA500;
+		}
 
 		.img1 {
 			align: left;
