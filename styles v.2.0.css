@@ -56,7 +56,7 @@
 		align: center;
 		color: #7cb4d4;
 		}
-		a.hover {
+		a:hover {
 			color:	#FFA500;
 		}
 
